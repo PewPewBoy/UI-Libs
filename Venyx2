@@ -660,7 +660,6 @@ do
 			close()
 		end)
 
-		-- added by iamtryingtofindname, 7/15/21
 		length = length or 2
 
 		local start = os.clock()
